@@ -1,0 +1,15 @@
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\bin\Debug\net6.0\journal.exe
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\bin\Debug\net6.0\journal.deps.json
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\bin\Debug\net6.0\journal.runtimeconfig.json
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\bin\Debug\net6.0\journal.dll
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\bin\Debug\net6.0\journal.pdb
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.csproj.AssemblyReference.cache
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.AssemblyInfoInputs.cache
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.AssemblyInfo.cs
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.csproj.CoreCompileInputs.cache
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.dll
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\refint\journal.dll
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.pdb
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\journal.genruntimeconfig.cache
+C:\Яичная скорлупка\Универ\курсы\HomeworkModul3\journal\obj\Debug\net6.0\ref\journal.dll
